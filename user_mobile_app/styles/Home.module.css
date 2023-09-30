@@ -1,0 +1,272 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.Wallet {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.BalanceDisplay {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 20px;
+  top: 60px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.container {
+  margin: auto;
+  width: 100%;
+  max-width: 500px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.simpleContainer {
+  max-width: 500px;
+  padding: 1rem;
+}
+
+.inlineContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  text-align: left;
+  font-size: 15px;
+  font-weight: 500;
+  color: #0f172a;
+}
+
+.largerTitle {
+  text-align: left;
+  font-size: 18px;
+  font-weight: 500;
+  color: #0f172a;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.keystrokesContainer {
+  background-color: #56b3ff;
+}
+
+.imageContainer {
+  width: 20vh;
+  position: relative;
+}
+
+.smallImageContainer {
+  width: 10vh;
+  position: relative;
+}
+
+.divAsLink:hover {
+  cursor: pointer;
+}
+
+.nftForm {
+  display: flex;
+  justify-content: center;
+}
+
+.nftForm input {
+  flex: 1;
+  padding: 1rem;
+  margin: 0;
+  margin-right: -1.5px;
+  border: 1.5px solid #0f172a;
+}
+
+.nftForm input:hover {
+  border-color: #4f46e5;
+  z-index: 1;
+}
+
+.nftForm input:focus {
+  outline: none;
+  border-color: #4f46e5;
+  z-index: 1;
+}
+
+.nftForm button {
+  background: white;
+  padding: 1rem;
+  margin: 0;
+  border: 1.5px solid #0f172a;
+  color: #0f172a;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.nftForm button:hover {
+  border-color: #4f46e5;
+  color: #4f46e5;
+}
+
+.nftPreview {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nftPreview h1 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #0f172a;
+  border: 1.5px solid #0f172a;
+  background-color: white;
+  padding: 0.5rem 1rem;
+  position: relative;
+  margin-bottom: -22px;
+  transform: rotate(-5deg);
+}
+
+.nftPreview img {
+  max-width: 100%;
+}
+
+.dropdown {
+  padding: 5px;
+  margin: 5px;
+}
+
+/* Newly added from scaffold template */
+.gridNFT {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.5em;
+}
+
+.NFTItem {
+  padding: 20px;
+}
+
+.NFTItem p {
+  font-size: x-large;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.NFTItem:hover {
+  cursor: pointer;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+
+.popUp {
+  height: 70%;
+  width: 40%;
+  background-color: #000711;
+  border-radius: 20px;
+  position: fixed;
+  top: 15%;
+  padding: 30px;
+  visibility: hidden;
+  overflow-y: scroll;
+  color: white;
+  font-size: large;
+  font-weight: 500;
+}
+
+.xSymbol {
+  top: 2px;
+  right: 2px;
+  color: white;
+  width: 30px;
+  height: 30px;
+  float: right;
+}
+
+.xSymbol:hover {
+  cursor: pointer;
+  background-color: red;
+  border-radius: 5px;
+}
+
+.NFTContainer {
+  background-color: #555;
+  border-radius: 20px;
+}
+
+.backSymbol {
+  font-size: xx-large;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+
+  background-color: rgb(182, 175, 175);
+  border-radius: 5px;
+  color: black;
+}
+
+.backSymbol:hover {
+  cursor: pointer;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+}
+
+.forwardSymbol {
+  font-size: xx-large;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+
+  background-color: rgb(182, 175, 175);
+  border-radius: 5px;
+  color: black;
+
+}
+
+.forwardSymbol:hover {
+  cursor: pointer;
+  color: white;
+  background-color: green;
+  border-radius: 5px;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  font-size: 100px;
+  font-weight: 700;
+  letter-spacing: -2px;
+  word-spacing: -25px;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #B1EA37;
+  border-radius: 30px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  top: 0px;
+}

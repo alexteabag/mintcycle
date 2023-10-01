@@ -22,4 +22,4 @@ How to run the code?
 - run "npm run dev"
 
 2) For the vending machine
-Run the v3.py file in the "vending machine" folder
+- Run the v3.py file in the "vending machine" folder

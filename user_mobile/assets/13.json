@@ -1,0 +1,33 @@
+{
+  "name": "Mint Cycle First Collection #13",
+  "symbol": "MC",
+  "description": "Your everyday recycling assistant",
+  "seller_fee_basis_points": 500,
+  "image": "13.png",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": "0"
+    },
+    {
+      "trait_type": "Total Recycled Items",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "13.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8LHizUTC42mqNDJiz3y67VNMV1GP23N6czb3V511TurP",
+        "share": 100
+      }
+    ]
+  }
+}

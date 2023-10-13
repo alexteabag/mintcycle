@@ -1,0 +1,27 @@
+{
+  "number": 20,
+  "symbol": "MC",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "8LHizUTC42mqNDJiz3y67VNMV1GP23N6czb3V511TurP",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "mintLimit": {
+        "id": 1,
+        "limit": 1
+      }
+    }
+  }
+}

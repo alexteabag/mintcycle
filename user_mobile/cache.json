@@ -1,0 +1,178 @@
+{
+  "program": {
+    "candyMachine": "xoHu51ZiYBPLWvv3KBtRtCY8cr4vnMfvN81g5Da8FKk",
+    "candyGuard": "HU94B3216nQVqnca36xMXVSmhGdYqC3gc5oeTTnWHD2P",
+    "candyMachineCreator": "Hw83s2zyhzkq5n8fv5J6avnZHJp1TVe2PEh9SbusMno9",
+    "collectionMint": "AY1uSDu6Ndmre8CeHBJmsn75GiNLTCncSXY2Sd3sbKZh"
+  },
+  "items": {
+    "-1": {
+      "name": "Mint Cycle First Collection",
+      "image_hash": "845148a26244b24f37dbaf86270cfe05d28f574c7247383a64c1ad72a130906f",
+      "image_link": "https://arweave.net/Z03cQxWpq7SiYM_9NeohUiLtn9m7cV2iLT62EEkp6nM?ext=png",
+      "metadata_hash": "e19d9ee4dcbf310241ab4fb5090142cfa59cb8a968567392ab6740789086e525",
+      "metadata_link": "https://arweave.net/mQUmFzrlKaCHgdK-7uoOxZEAYyBT29aVrdmrBzYMdpQ",
+      "onChain": true
+    },
+    "0": {
+      "name": "Mint Cycle First Collection #0",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/OPH8TR2PobosPAecFYTleWBqWs-5pdEpPciMREw0e3U?ext=png",
+      "metadata_hash": "4e9da931e561d283016bbc63d426e448f9ead4a1f68005962f033fba6b156b4c",
+      "metadata_link": "https://arweave.net/6bFK6eiUc9Ck_K9Lht9c3zYHH27Kkh89XN6JYM5diDI",
+      "onChain": true
+    },
+    "1": {
+      "name": "Mint Cycle First Collection #1",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/fANfdUBWJTYsOQW3dnVrbxHpdBrJhqLycFKyBrbY6X0?ext=png",
+      "metadata_hash": "23b9306605770dc8258d8e19998264491d8b762075d40dd5172b3a71a1811c15",
+      "metadata_link": "https://arweave.net/XFW5OjKw8gEZTXNCU8nkDspfQ3aI76VXRWgbBu5NjIs",
+      "onChain": true
+    },
+    "2": {
+      "name": "Mint Cycle First Collection #2",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/uXsCdvVaagW8Rgz9U27vptwWplCg8bJasZ4qaI_EtdM?ext=png",
+      "metadata_hash": "b6280c8a71211993b5bd326269a4beb71ccbc60d460caff0a83f37e7d1819517",
+      "metadata_link": "https://arweave.net/Qc-73wDHu3_oEeZQwHksv-sUmbxGEyEf1X-W9_L1m4A",
+      "onChain": true
+    },
+    "3": {
+      "name": "Mint Cycle First Collection #3",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/17-QKlmFPlQEY7kgJ2TlPeKZZUPbPvE7vf4pnI-Y8Vc?ext=png",
+      "metadata_hash": "68fdc7d11c7c5a529933653f26b32bd05508ccbe08acc8664980b7b6eb64c19e",
+      "metadata_link": "https://arweave.net/K_sauPkLFCCPEMy3mtnccrEpC04HAkSMA_Q-s3Ldid0",
+      "onChain": true
+    },
+    "4": {
+      "name": "Mint Cycle First Collection #4",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/0brMTDVlXTmDugU3tJCusQ78hyC5lyfEXXJtLWoUmSE?ext=png",
+      "metadata_hash": "5420e65078c95728b9b74fa81d547a4d6c92b3d5db55086f6007ef069805a665",
+      "metadata_link": "https://arweave.net/bGPwX0GWYWEpJ9ntRIkeDwrs26GUMXsRhMGOlB-8MG0",
+      "onChain": true
+    },
+    "5": {
+      "name": "Mint Cycle First Collection #5",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/XbonGwhnzvAu2nvWrs3gNGm9drtVK5HBw7YBREvWm-U?ext=png",
+      "metadata_hash": "2b9ee11ea9e3170b36434a7c310b9e2d2579f628e1944caace47216857b391b2",
+      "metadata_link": "https://arweave.net/m4Wx3Cnkf61vcp_eiw7aucmH2SC8_ohfCWXiarmEv38",
+      "onChain": true
+    },
+    "6": {
+      "name": "Mint Cycle First Collection #6",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/06NOVN0nWMTe4cITOeIjNUi2dhm0mg4PdIe-9HEbftE?ext=png",
+      "metadata_hash": "b40ad616192c8d3e641c5b5eb2f429fcd0c3db363ce7f90a13236ab359fd79f7",
+      "metadata_link": "https://arweave.net/fMVjPxvE3BWJmsw-hSaO9qT9_Siz2CnaPXdQFmEjw_Q",
+      "onChain": true
+    },
+    "7": {
+      "name": "Mint Cycle First Collection #7",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/uWdMFtNnLRQ3H3CbYDWWR2OczqXwWJvpnc0L-Dwr-u4?ext=png",
+      "metadata_hash": "1f36910d2707f362466b5a4d4161244e1da971b2567992c8636f494e0839fe7d",
+      "metadata_link": "https://arweave.net/uQd1PyTD3XtJbgNC7g3FSmTupTonmOPyNFOVUcGdUOI",
+      "onChain": true
+    },
+    "8": {
+      "name": "Mint Cycle First Collection #8",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/EGwzRMx9wE7XyJeKXVypbrDhbDY2gPfMew72Yz7bDRo?ext=png",
+      "metadata_hash": "2b77435a0d79f0b50bb2d0b69adf5ec5bb5085a432c8f713722ec87f5da6fbe7",
+      "metadata_link": "https://arweave.net/Rw6sz56vhubNOUMIb5qJiP4yblf-QywRZcpJCGmiNyk",
+      "onChain": true
+    },
+    "9": {
+      "name": "Mint Cycle First Collection #9",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/8Sy62AbswyLvTaCkiCav_fLWi1Y2R-d7JEYiNMT-tdI?ext=png",
+      "metadata_hash": "ce47c1f357d20fd4d763d03062616d98bbe94fc696ddd72e0924dd4bad793dbc",
+      "metadata_link": "https://arweave.net/LVQ6wNrETxgNajmV_a_NCrLrn7Gxl6I_WQr4uWjqaio",
+      "onChain": true
+    },
+    "10": {
+      "name": "Mint Cycle First Collection #10",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/WehbsWByUwshA1DZ89UgBRp2unrhiy0JzGJIIkY4foQ?ext=png",
+      "metadata_hash": "191e3500401c67084e43ceebdc6a7d83526bca8503920cc31dabe60c55606b0b",
+      "metadata_link": "https://arweave.net/OtE78vaEqocPwWfFrAhaB54tKFjJhqt2lm3FzwEkTl4",
+      "onChain": true
+    },
+    "11": {
+      "name": "Mint Cycle First Collection #11",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/2MbldUEEXNc5CGpZClHcSe78Gs0K42eV3_E1EUIxWI8?ext=png",
+      "metadata_hash": "9191177b4f2b0b7d33d7e62fdde3b138ec317d69bd16111d235708aa14fcb7ce",
+      "metadata_link": "https://arweave.net/cBzXTMlThOpdTy9-zNjEAu3bf1sfdooh5k0DBcOu70A",
+      "onChain": true
+    },
+    "12": {
+      "name": "Mint Cycle First Collection #12",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/wfjHyw32hIM2Kujln1Ls-1DOdNewsbx_zSHbv2eIbxg?ext=png",
+      "metadata_hash": "36c31da713a08b7bbe52b761e29723264f98c108ac9e625848ec60737a5edadf",
+      "metadata_link": "https://arweave.net/IgdF_rf406VByz02Xq7ozgbi3S0N8DzqWWH8pTOLrgA",
+      "onChain": true
+    },
+    "13": {
+      "name": "Mint Cycle First Collection #13",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/gLg6N34m-LaWadNkbSXhSEHtz9K-KShLZzfFmLaTcr0?ext=png",
+      "metadata_hash": "22490cc51fbe1b367e258bbcc43a2cab1475998cf9e421660d1a38f5068d5b88",
+      "metadata_link": "https://arweave.net/dP2fp3HCYsrrPVFiXzvD6RWO-XoDiXmg7Z15PwuAbKQ",
+      "onChain": true
+    },
+    "14": {
+      "name": "Mint Cycle First Collection #14",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/oT-m-o7EMiuMwDUvl8ljn8DwbZzG32fLKWh8q6-KG34?ext=png",
+      "metadata_hash": "cf09063d32aa5442ef3586347b6c3ec9fa6c3c4f8e2888b0f37ef9780aca231e",
+      "metadata_link": "https://arweave.net/EStX_3RrTe8XG7lXzSUmJLSgAijYcpoS8Hs9XvxvBz8",
+      "onChain": true
+    },
+    "15": {
+      "name": "Mint Cycle First Collection #15",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/3rt_I-BwqamUIJxD62uQizTXORxh1zXhV7XuKqIurgc?ext=png",
+      "metadata_hash": "9699e9be7333431d18f03b745015670cbefecd0e5b0c56f00ff8c36c76784e01",
+      "metadata_link": "https://arweave.net/IRpntUGW0VCP5Zvj7JhSLshw_H-S9bWeEu7SGL80jVs",
+      "onChain": true
+    },
+    "16": {
+      "name": "Mint Cycle First Collection #16",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/09PwtDZ3qNMSlejYQa9fpXes303NoaQohvQFMgw_Fm4?ext=png",
+      "metadata_hash": "3317715782fc139cc3a5bb37be560d562f4fee304c3f5979768518bc3185f4e8",
+      "metadata_link": "https://arweave.net/pF96qzZRcr9QwF67jIXRScTyphv8unMFLoNPERlsDEk",
+      "onChain": true
+    },
+    "17": {
+      "name": "Mint Cycle First Collection #17",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/R6zwHn4kWK3rCIHOFcz4vR3LXBPumylafv1YvXf5sAM?ext=png",
+      "metadata_hash": "78a4b9adcd74c631a0a021f34be108133a17e32fb7ed591c6aac7865b5545908",
+      "metadata_link": "https://arweave.net/90eh_qzMZS4LAj5W5s2ujvcm2lFjSRLhqtBGfO7YkZE",
+      "onChain": true
+    },
+    "18": {
+      "name": "Mint Cycle First Collection #18",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/C8XN7mt8e7n8NivI80qAubCGwhimlDuZ9W81wLNZvis?ext=png",
+      "metadata_hash": "aeb5e604dead674092aa26fe8aeb70d73f0c3de7b27a5965d9fc4eb815cc02c9",
+      "metadata_link": "https://arweave.net/lGdtgGkSFALGTb0o7l0KYH6PkZvNVCL82DjKVE4NZok",
+      "onChain": true
+    },
+    "19": {
+      "name": "Mint Cycle First Collection #19",
+      "image_hash": "fd6cbe72f251573bf15bc28e51419aa5450c498f712ae30a03fe6b0d70952dc3",
+      "image_link": "https://arweave.net/QTYaVuQ-nrWsruOZjaXWxv_FAWCsqNvt8h4YPZ-xdLw?ext=png",
+      "metadata_hash": "57ff74a7c3f46d8b85746c9113469fc11038e940dee42bd9e99823fc678a4a8c",
+      "metadata_link": "https://arweave.net/43N75KYQPPTbRntfZXSoBWng8qTVAlXuRGatJOAPRl4",
+      "onChain": true
+    }
+  }
+}

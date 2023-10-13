@@ -270,3 +270,18 @@
   padding-right: 30px;
   top: 0px;
 }
+
+.startStopCam {
+  display: flex;
+  justify-content: center;
+}
+
+.outputDetectionResults {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.buttonSpacing{
+  margin: 20px
+}

@@ -46,6 +46,8 @@ export const ShowAllNFTs = () => {
 
     let name = null;
     let image = null;
+    let attribute_level = null;
+    let attribute_total = null;
     let address = e.target.id;
     // Generate QRCode of NFT mint address
     QRCode.toDataURL(address).then(setQr)
@@ -64,6 +66,8 @@ export const ShowAllNFTs = () => {
       if (result.mint.address.toBase58() == address) {
         name = result.json.name;
         image = result.json.image;
+        attribute_level = result.json.attributes[0].value
+        attribute_total = result.json.attributes[1].value
         break;
       }
 
@@ -72,11 +76,16 @@ export const ShowAllNFTs = () => {
     // Get element ID
     const popUpName = document.getElementById("popUpName");
     const popUpImage = document.getElementById("popUpImage");
+    const popUpAttribute_level = document.getElementById("popUpAttribute_level");
+    const popUpAttribute_total = document.getElementById("popUpAttribute_total");
     const popUpAddress = document.getElementById("popUpAddress");
+    
 
     // Set value into pop up window
     popUpName.textContent = name
     popUpImage.src = image
+    popUpAttribute_level.textContent = "Level : " + attribute_level
+    popUpAttribute_total.textContent = "Total Recycled Items : " + attribute_total
     popUpAddress.textContent = address
   };
 
@@ -137,6 +146,8 @@ export const ShowAllNFTs = () => {
             <div>
               <img id="popUpImage" />
               <p id="popUpName"></p>
+              <p id="popUpAttribute_level">Level: </p>
+              <p id="popUpAttribute_total">Total recycled Items:</p>
               <br></br>
               <br></br>
               <br></br>

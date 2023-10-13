@@ -2,6 +2,7 @@ import { FC } from "react"
 import "@solana/wallet-adapter-react-ui/styles.css";
 
 // For NFT Upgrading
+import styles from "../styles/Home.module.css";
 import { Connection, Keypair, ParsedAccountData, PublicKey, RpcResponseAndContext, TokenAccountBalancePair } from "@solana/web3.js";
 import { Metaplex, keypairIdentity, bundlrStorage, Nft, Sft, AccountInfo, UploadMetadataOutput, uploadMetadataOperation } from "@metaplex-foundation/js";
 import secret from '../../guideSecret.json';
@@ -9,12 +10,9 @@ import cache from '../../cache.json';
 import Arweave from "arweave";
 
 import * as Web3 from "@solana/web3.js";
-// import dotenv from "dotenv";
-// dotenv.config();
 
 
 export const RewardView: FC = (props) => {
-
   // Predefined level up threshold
   const threshold_level_up = 2;
 
@@ -40,10 +38,8 @@ export const RewardView: FC = (props) => {
   // Perform localStorage action in Typescript
   if (typeof window !== 'undefined') {
     recycledItemsCount = localStorage.getItem("recycledItemsCount");
+
   }
-
-
-
 
   const METAPLEX = Metaplex.make(SOLANA_CONNECTION)
     .use(keypairIdentity(WALLET))
@@ -267,9 +263,8 @@ export const RewardView: FC = (props) => {
 
 
   return (
-    <div>
-      hidwadwadwad
-      <button onClick={onClick}>Upgrade NFT</button>
+    <div className={styles.startStopCam}>
+      <button onClick={onClick}>Check Out</button>
     </div>
   )
 }

@@ -49,6 +49,8 @@ export const LandingView = () => {
 
           localStorage.setItem("OwnerAddress", largestAccountInfo.value.data.parsed.info.owner);
           localStorage.setItem("MintAddress", tokenMint);
+          localStorage.setItem("recycledItemsCount", 0);
+
 
           setLargestAccountsInfo(largestAccountInfo.value.data.parsed.info.owner);
         } catch (error) {

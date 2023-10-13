@@ -68,6 +68,9 @@ export const DetectBottleView = () => {
           // Update new Count to localStorage
           let newCount = +recycledItemsCount + 1;
           localStorage.setItem("recycledItemsCount", newCount);
+
+          const recyledQuantity = document.getElementById("recyledQuantity");
+          recyledQuantity.textContent = "Total Recycled Items: " + newCount
         }
 
       } else {
@@ -96,7 +99,7 @@ export const DetectBottleView = () => {
 
   return (
 
-    <div>
+    <div className={styles.logoContainer}>
 
       {/* Direct to another page */}
       <div class={styles.backSymbol}>
@@ -107,22 +110,42 @@ export const DetectBottleView = () => {
 
       <div className="App">
 
-        <h1>Plastic Bottle Recognition</h1>
-        <button onClick={startCamera}>Start Camera</button>
-        <button onClick={stopCamera}>Stop Camera</button>
-        <video id="video" width="320" height="240" autoPlay ref={videoRef}></video>
-        <button onClick={capturePhoto}>Capture Photo</button>
+        <h1 class={styles.startStopCam}>Plastic Bottle Recognition</h1>
 
-        <img
-          ref={capturedImageRef}
-          alt="Captured"
-          style={{ display: 'block', maxWidth: '100%' }}
-        />
+        <div class={styles.startStopCam}>
+          <button onClick={startCamera} class={styles.buttonSpacing}>Start Camera</button>
+          <button onClick={stopCamera} class={styles.buttonSpacing}>Stop Camera</button>
+        </div>
 
-        <button onClick={uploadPhoto}>Upload Photo</button>
+        <div class={styles.startStopCam}>
+          <video id="video" autoPlay ref={videoRef}></video>
+        </div>
 
-        <p>{detectionMessage}</p>
+        <div class={styles.startStopCam}>
+          <button onClick={capturePhoto} class={styles.buttonSpacing}>Take Picture</button>
+        </div>
 
+        <div class={styles.startStopCam}>
+          <p>______________________________________</p>
+        </div>
+
+        <h1 class={styles.startStopCam}>Captured Image</h1>
+
+        <div class={styles.startStopCam}>
+          <img
+            ref={capturedImageRef}
+            alt="Captured"
+            class={styles.startStopCam}
+          />
+        </div>
+
+        <div class={styles.startStopCam}>
+          <button onClick={uploadPhoto} class={styles.buttonSpacing}>Detect Bottle</button>
+        </div>
+
+        <p class={styles.outputDetectionResults}>{detectionMessage}</p>
+
+        <p id="recyledQuantity"></p>
       </div>
 
 

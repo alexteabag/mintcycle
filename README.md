@@ -1,4 +1,6 @@
 # Mint Cycle Prototype
+![github_mcLogo](https://github.com/alexteabag/mintcycle/assets/93482528/92ed8e72-3718-41d7-9b7a-3178b8facfe8)
+
 ## Prepreparation steps before running the file:
 1) Install solana following the steps here: **[Solana Docs](https://docs.solana.com/getstarted/local)**
 

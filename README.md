@@ -15,9 +15,10 @@
     NEXT_PUBLIC_CANDY_MACHINE_ID=xoHu51ZiYBPLWvv3KBtRtCY8cr4vnMfvN81g5Da8FKk
     NEXT_PUBLIC_NFT_COLLECTION_ID=AY1uSDu6Ndmre8CeHBJmsn75GiNLTCncSXY2Sd3sbKZh
 
-2) cd "mintcycle/user_mobile/frontend"
-3) Run "**npm install**"
-4) Run "**npm run dev**"
+2) Open command prompt and run the following commands:
+   - cd "mintcycle/user_mobile/frontend"
+   - Run "**npm install**"
+   - Run "**npm run dev**"
 
 
 ### Running vending machine
@@ -30,6 +31,7 @@
     NEXT_PUBLIC_CANDY_MACHINE_ID=BNRJtE638KXCiR3QKbPbxiV8dCdTtFtyVyV5WoUKq7kn
     NEXT_PUBLIC_NFT_COLLECTION_ID=HcPehSjMnqFuEZHsfz447takG3tHp4zqvpCecapasFey
 
-3) cd "mintcycle/vending_machine/frontend" 
-4) Run "**npm install**"
-5) Run "**npm run dev**"
+3) Open command prompt and run the following commands:
+   - cd "mintcycle/vending_machine/frontend" 
+   - Run "**npm install**"
+   - Run "**npm run dev**"

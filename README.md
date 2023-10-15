@@ -13,6 +13,7 @@ Mint Cycle is a Solana-powered solution that reward users in combating climate c
   
 3) Run "**git clone https://github.com/alexteabag/mintcycle**"
 
+  
 ## Run Prototype
 ### Running User app
 1) Create a file with name ".env" in "mintcycle/user_mobile/frontend" folder and paste the following:
@@ -25,6 +26,7 @@ Mint Cycle is a Solana-powered solution that reward users in combating climate c
    - Run "**npm run dev**"
 
 
+  
 ### Running vending machine
 1) Open command prompt and run the following commands:
    - **cd "mintcycle/Detect_bottle_model""**

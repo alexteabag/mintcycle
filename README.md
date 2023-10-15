@@ -1,6 +1,5 @@
 # Mint Cycle Prototype
-## Prepreparations
-### Prepreparation steps before running the file:
+## Prepreparation steps before running the file:
 1) Install solana following the steps here: **[Solana Docs](https://docs.solana.com/getstarted/local)**
 
 2) Open command prompt and install related Python libraries using:

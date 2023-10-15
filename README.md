@@ -11,9 +11,10 @@ Mint Cycle is a Solana-powered solution that reward users in combating climate c
    - **pip install pip install fastapi**
    - **pip install "uvicorn[standard]"**
   
-3) Run "**git clone https://github.com/alexteabag/mintcycle**"
+3) Run "**git clone https://github.com/alexteabag/mintcycle**"  
 
-  
+
+
 ## Run Prototype
 ### Running User app
 1) Create a file with name ".env" in "mintcycle/user_mobile/frontend" folder and paste the following:

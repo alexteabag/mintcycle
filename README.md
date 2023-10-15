@@ -1,7 +1,5 @@
 # Mint Cycle Prototype
-![github_mcLogo](https://github.com/alexteabag/mintcycle/assets/93482528/92ed8e72-3718-41d7-9b7a-3178b8facfe8)
-
-
+![github_mcLogo](https://github.com/alexteabag/mintcycle/assets/93482528/92ed8e72-3718-41d7-9b7a-3178b8facfe8)  
 Mint Cycle is a Solana-powered solution that reward users in combating climate change, with Solana token and a dynamic NFT that represents the user's identity.
 
 

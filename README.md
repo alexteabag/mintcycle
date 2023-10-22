@@ -2,7 +2,7 @@
 ![github_mcLogo](https://github.com/alexteabag/mintcycle/assets/93482528/92ed8e72-3718-41d7-9b7a-3178b8facfe8)  
 Mint Cycle is a Solana-powered solution that reward users in combating climate change, with Solana token and a dynamic NFT that represents the user's identity.   
 
-**DEMO video:** https://youtu.be/_tAvR-R84Ls?si=CtPEtxy6EQMCIZ0b
+**DEMO video:** https://youtu.be/_tAvR-R84Ls?si=CtPEtxy6EQMCIZ0b   
 
 ## Prepreparation steps before running the file:
 1) Install solana following the steps here: **[Solana Docs](https://docs.solana.com/getstarted/local)**
@@ -25,7 +25,7 @@ Mint Cycle is a Solana-powered solution that reward users in combating climate c
 2) Open command prompt and run the following commands:
    - **cd "mintcycle/user_mobile/frontend"**
    - Run "**npm install**"
-   - Run "**npm run dev**"
+   - Run "**npm run dev**"   
 
 
   
@@ -33,11 +33,11 @@ Mint Cycle is a Solana-powered solution that reward users in combating climate c
 1) Open command prompt and run the following commands:
    - **cd "mintcycle/Detect_bottle_model""**
    - **venv\Scripts\activate**
-   - **uvicorn main:app --reload**
+   - **uvicorn main:app --reload**   
 
 2) Create a file with name ".env" in "mintcycle/vending_machine/frontend" folder and paste the following:
     **NEXT_PUBLIC_CANDY_MACHINE_ID=BNRJtE638KXCiR3QKbPbxiV8dCdTtFtyVyV5WoUKq7kn**
-    **NEXT_PUBLIC_NFT_COLLECTION_ID=HcPehSjMnqFuEZHsfz447takG3tHp4zqvpCecapasFey**
+    **NEXT_PUBLIC_NFT_COLLECTION_ID=HcPehSjMnqFuEZHsfz447takG3tHp4zqvpCecapasFey**   
 
 3) Open command prompt and run the following commands:
    - **cd "mintcycle/vending_machine/frontend" **

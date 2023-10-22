@@ -18,8 +18,8 @@ Mint Cycle is a Solana-powered solution that reward users in combating climate c
 ## Run Prototype
 ### Running User app
 1) Create a file with name ".env" in "mintcycle/user_mobile/frontend" folder and paste the following:
-    NEXT_PUBLIC_CANDY_MACHINE_ID=xoHu51ZiYBPLWvv3KBtRtCY8cr4vnMfvN81g5Da8FKk
-    NEXT_PUBLIC_NFT_COLLECTION_ID=AY1uSDu6Ndmre8CeHBJmsn75GiNLTCncSXY2Sd3sbKZh
+    **NEXT_PUBLIC_CANDY_MACHINE_ID=xoHu51ZiYBPLWvv3KBtRtCY8cr4vnMfvN81g5Da8FKk**
+    **NEXT_PUBLIC_NFT_COLLECTION_ID=AY1uSDu6Ndmre8CeHBJmsn75GiNLTCncSXY2Sd3sbKZh**
 
 2) Open command prompt and run the following commands:
    - cd "mintcycle/user_mobile/frontend"
